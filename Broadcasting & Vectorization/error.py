@@ -3,5 +3,5 @@ arr1 = np.array([[2,3,4],[2,3]])
 arr2 = np.array([2,3])
 
 result = arr1 + arr2
-print(result)   #Va;ue error aa jayega kyuki dono array ka size alag alag hai
+print(result)   #Value error aa jayega kyuki dono array ka size alag alag hai
 
